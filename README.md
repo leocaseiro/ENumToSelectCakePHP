@@ -20,3 +20,7 @@ Based on http://bakery.cakephp.org/articles/christian.kilb/2010/09/09/form-helpe
 		echo $this->Form2->input('YourModel.your_field', array('type' => 'radio')); //For radio field
 		echo $this->Form->end('Submit');
 	?>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/leocaseiro/enumtoselectcakephp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
